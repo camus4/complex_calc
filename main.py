@@ -1,6 +1,6 @@
 import cmath
 import math
-print("better version of calculator, choose a module")
+print("calculate complex numbers and logarithms, choose an option")
 
 choose_mod = input("1: complex numbers \n2: logarithms \n3: explain the module "  )
 
